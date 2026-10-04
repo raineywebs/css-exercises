@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color: rgb(200, 127, 127);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    
+}
+.large{
+    font-size: 24px;
+}
+#bluetxtlargest{
+    color: rgb(48, 40, 161);
+    font-size: 36px;
+}
+#greenbkgrnd{
+    background-color: rgb(109, 236, 98);
+    font-weight: bold;
+}
